@@ -23,3 +23,5 @@ cd /tmp/ll-setup/
 # ISSUE
 # after this, install intellij idea community edition with automation/ (this part requires an input key from user)
 ./install_intellij.sh
+# after everything is installed, reboot.
+sudo reboot now
